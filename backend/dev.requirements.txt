@@ -1,0 +1,12 @@
+asyncpg
+docker
+fastapi
+pre-commit
+pydantic-settings
+pytest
+pytest-asyncio
+python-dotenv
+requests
+tortoise-orm
+uvicorn
+watchfiles
