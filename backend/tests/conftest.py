@@ -1,11 +1,6 @@
 import os
 import sys
 
-assert (sys.version_info.major, sys.version_info.minor) == (
-    3,
-    11,
-), "Only Python 3.11 allowed"
-
 POSTGRES_USER = "test_postrgres_user"
 POSTGRES_PASSWORD = "test_postgres_password"
 POSTGRES_HOST = "localhost"
